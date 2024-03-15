@@ -1,0 +1,6 @@
+train: /kaggle/input/cars-detection/Cars Detection/train/images
+val: /kaggle/input/cars-detection/Cars Detection/valid/images
+test: /kaggle/input/cars-detection/Cars Detection/test/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
